@@ -633,7 +633,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 95%;
   height: auto;
 }
 
@@ -11817,12 +11817,12 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 20rem;
 }
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(6rem + 104px);
+    padding-top: calc(6rem + 50px);
     padding-bottom: 6rem;
   }
   .masthead .masthead-heading {
