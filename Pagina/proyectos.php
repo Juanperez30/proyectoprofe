@@ -1,4 +1,5 @@
 <?php include('conexion.php');
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -19,8 +20,8 @@
         <link href="css/styles.css" rel="stylesheet" />
     </head>
 
-    <body id="page-top">   
-        
+    <body id="page-top">
+
 
         <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">
@@ -38,7 +39,7 @@
                 <!-- Portfolio Grid Items-->
                 <p><div class="row justify-content-center"></p>
                     <!-- Portfolio Item 1-->
-                    <tbody><?=cargarTabla($conexion); ?></tbody>
+<!--                    <tbody><?=cargarTabla($conexion); ?></tbody>
                     <table action="conexion.php" method="post">
                         <thead>
                             <th id="nombre_proyecto" name="nombre_proyecto">nombre_proyecto</th>
@@ -46,6 +47,17 @@
                             <th id="enlace" name="enlace">enlace</th>
                         </thead>
                     </table>
+-->
+<table>
+  <thead>
+    <th>Nombre</th>
+    <th>Descripcion</th>
+    <th>Enlace</th>
+  </thead>
+  <tbody>
+    <?=cargarTabla(conexion, $_GET['categoria']); ?>
+  </tbody>
+</table>
                 </div>
             </div>
         </section>
