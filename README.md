@@ -2,4 +2,4 @@ Proyecto realizado para la presentación de Expotecnicos 2021 en el Instituto Te
 
 Video de su funcionamiento: https://youtu.be/DenwaLAI1-s
 
-Desarrollado por Juan Pablo Perez Leal y Laura Natalia Jaimes Antolinez @LauraNataliaJaimes
+Desarrollado por Juan Pablo Perez Leal y Laura Natalia Jaimes Antolinez (@LauraNataliaJaimes)
