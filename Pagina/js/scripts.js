@@ -52,3 +52,15 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+const floating_btn = document.querySelector('.floating-btnn');
+const close_btn = document.querySelector('.close-btnn');
+const social_panel_container = document.querySelector('.social-panel-container');
+
+floating_btn.addEventListener('click', () => {
+	social_panel_container.classList.toggle('visible')
+});
+
+close_btn.addEventListener('click', () => {
+	social_panel_container.classList.remove('visible')
+});
