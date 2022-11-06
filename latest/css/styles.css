@@ -1,5 +1,36 @@
 @charset "UTF-8";
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+/* code that is here, until the first @media block, will apply to any screen size */
+#somethingorother {
+  width: 800px ;
+}
+
+@media screen and (max-width: 320px) {
+  /* comes into effect for screens less than or equal to 320 pixels */
+  #somethingorother {
+    width: 120px ;
+  }
+}
+@media screen and (min-width: 321px) and (max-width: 480px) {
+  /* comes into effect for screens between 321 and 480 pixels (inclusive) */
+  #somethingorother {
+    width: 320px ;
+  }
+}
+@media screen and (min-width: 481px) {
+  /* comes into effect for screens larger than or equal to 481 pixels */
+  #somethingorother {
+    width: 480px ;
+  }
+}
+
+/* code that is here will apply to any screen size */
+
 /*!
 * Start Bootstrap - Freelancer v7.0.5 (https://startbootstrap.com/theme/freelancer)
 * Copyright 2013-2021 Start Bootstrap
@@ -11983,7 +12014,7 @@ html {
 }
 
 .masthead .masthead-heading {
-  font-size: 2.75rem;
+  font-size: 2.6rem;
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
@@ -12072,9 +12103,10 @@ html {
   background-color: #fff;
 	border-radius: 10px;
 	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
-	display: flex;
+	display: inline-flexbox;
 	max-width: 100%;
 	margin: 30px;
+  margin-right: 10px;
 	overflow: hidden;
 	width: 650px;
 }
@@ -12082,25 +12114,35 @@ html {
 .course h6 {
 	opacity: 0.6;
 	margin: 0;
+  
+  margin-right: 110px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 
-.course h2 {
+.course h3 {
 	letter-spacing: 1px;
-	margin: 10px 0;
+  
+  margin-left: 30px;
+	margin: 15px auto;
 }
 
 .course-preview {
+  box-sizing: border-box;
+  display: inherit;
 	background-color: #00a550;
 	color: #fff;
-	padding: 30px;
-	max-width: 350px;
+	padding: 35px;
+  min-width: 200px;
+  margin: 2px;
+  width: 100%;
+  border: 10px;
 }
 
 .course-preview a {
 	color: #fff;
-	display: inline-block;
+  margin-left: 30px;
+	display: inline-table;
 	font-size: 12px;
 	opacity: 0.6;
 	margin-top: 30px;
