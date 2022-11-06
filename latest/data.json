@@ -1,0 +1,909 @@
+﻿{
+    "Hoja1": [
+        {
+            "ID": "1",
+            "NOMBRE": "ARTIST HOME",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo"
+        },
+        {
+            "ID": "2",
+            "NOMBRE": "BABYSITTER",
+            "DESCRIPCION": "Servicio de niñeras próxima generación de educación"
+        },
+        {
+            "ID": "3",
+            "NOMBRE": "CITIZIENS",
+            "DESCRIPCION": "Elaboración de un videojuego en Minecraft, recreando la ciudad de Bucaramanga, por medio de un mapa de aventuras y roles donde se genere conocimiento, sensibilización y cambios de"
+        },
+        {
+            "ID": "4",
+            "NOMBRE": "CODEPC",
+            "DESCRIPCION": "Diseño y producción de un programa en visual basic con usuario y contraseña para que cada sección sea del"
+        },
+        {
+            "ID": "5",
+            "NOMBRE": "COGNITIVE GAME",
+            "DESCRIPCION": "DISEÑO Y PRODUCCION DE UN VIDEOJUEGO EDUCATIVO POR MEDIO DE HERRAMIENTAS DE PROGRAMACION, PARA MEJORAR EL DESARROLLO COGNITIVO Y CREATIVO EN UN 40% EN LOS NIÑOS Y JOVENES"
+        },
+        {
+            "ID": "6",
+            "NOMBRE": "DETEICO",
+            "DESCRIPCION": "Dispositivo manual realizado con el objetivo de medir el aire para saber si se encuentra o no contaminado, ayudando de una buena manera al medio ambiente “Medidor de Aire"
+        },
+        {
+            "ID": "7",
+            "NOMBRE": "EDUKIDS",
+            "DESCRIPCION": "MEJORAMIENTO DE CONOICIMIENTO PARA PEQUIS "
+        },
+        {
+            "ID": "8",
+            "NOMBRE": "EDUPEQUIS",
+            "DESCRIPCION": "(M.C.P) MEJORANDO DE CONOCIMIENTO PARA PEQUIS "
+        },
+        {
+            "ID": "9",
+            "NOMBRE": "EVERY",
+            "DESCRIPCION": "Diseño y elaboración de una aplicación sobre educación sexual, conformada por distintos saberes con el fin de informar y"
+        },
+        {
+            "ID": "10",
+            "NOMBRE": "FACTORIAL-LEARNING",
+            "DESCRIPCION": "Desarrollo de un sistema aplicativo para celulares y computadores en phytom y html 5 en ordenadores y celulares Android para la enseñanza de casos de factorización 2 de matemáticas de octavo grado."
+        },
+        {
+            "ID": "11",
+            "NOMBRE": "ISAGO",
+            "DESCRIPCION": "Diseño y creación de una app recreativa de uso libre para el entretenimiento de cualquier persona mediante el uso interactivo y visual ."
+        },
+        {
+            "ID": "12",
+            "NOMBRE": "KIDS LEARNING",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio"
+        },
+        {
+            "ID": "13",
+            "NOMBRE": "LEARN PLAYING",
+            "DESCRIPCION": "App que busca hacer más divertida la práctica de la lectura buscando así mejorar el desempeño de los estudiantes en las pruebas de estado"
+        },
+        {
+            "ID": "14",
+            "NOMBRE": "NON VIOLENCE",
+            "DESCRIPCION": "diseño de la aplicación de Non Violence"
+        },
+        {
+            "ID": "15",
+            "NOMBRE": "OPDM",
+            "DESCRIPCION": "Aprendizaje por medio de Manga"
+        },
+        {
+            "ID": "16",
+            "NOMBRE": "RUN JUMP AND DODGE",
+            "DESCRIPCION": "Creación de un videojuego interesante y divertido con el cual combatir el aburrimiento y mal uso del tiempo de ocio  "
+        },
+        {
+            "ID": "17",
+            "NOMBRE": "SEX EDUCATION",
+            "DESCRIPCION": "Educación sobre la sexualidad para todos los jóvenes en Colombia y latinoamerica"
+        },
+        {
+            "ID": "18",
+            "NOMBRE": "TALKING DOGS",
+            "DESCRIPCION": "Botón grabable que le ayuda con la comunicación de perro a persona "
+        },
+        {
+            "ID": "19",
+            "NOMBRE": "TOYDENT"
+        },
+        {
+            "ID": "20",
+            "NOMBRE": "AUTOMODIF",
+            "DESCRIPCION": "Diseño y producción de un sistema de alarma para autos elaborado con chips arduinos y sensores de movimiento o los cuales se manejarán con una aplicación móvil, disminuyendo así el 40% de robos de automóviles en el país"
+        },
+        {
+            "ID": "21",
+            "NOMBRE": "BEEP",
+            "DESCRIPCION": "Diseño y producción de dispositivos de tipo alarma con el fin de reducir la accidentalidad causada por microsueños, reduciendo así las tasas de mortalidad."
+        },
+        {
+            "ID": "22",
+            "NOMBRE": "CAR WALKS STEPS"
+        },
+        {
+            "ID": "23",
+            "NOMBRE": "COOKING EASY",
+            "DESCRIPCION": "Sandwichera capaz de desarmarse para facilitar su limpieza previniendo los gérmenes y posibles enfermedades y contiene bandejas de diferentes tipos para que el portador no lo use solo como sandwichera sino como waflera o mini asador, también contendrá algunos diseños atractivos para los niños y un sistema ferroeléctrico"
+        },
+        {
+            "ID": "24",
+            "NOMBRE": "DANVEON",
+            "DESCRIPCION": "Diseño y producion de un dron hecho en paletas de helados"
+        },
+        {
+            "ID": "25",
+            "NOMBRE": "DISPENSERTEC",
+            "DESCRIPCION": "Diseño y producción de dispensadores a base de materiales reciclables de fácil uso,brinda un servicio acomededor y practico "
+        },
+        {
+            "ID": "26",
+            "NOMBRE": "ECOLOOF",
+            "DESCRIPCION": "Diseño y venta de ecológicos de cartón que por medio de su ligero peso y un cuerpo de aluminio permite la fácil instalación disminuyendo un 60 el peso en comparación a un cielorraso común y disminuyendo el valor para que toda persona de bajo alcance económico pueda adquirirlo"
+        },
+        {
+            "ID": "27",
+            "NOMBRE": "ELECTRIC POT"
+        },
+        {
+            "ID": "28",
+            "NOMBRE": "FIND ME",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE UNA APLICACIÓN EN CONTRA DE LA VIOLENCIA DE GÉNERO QUE GARANTIZA LA SEGURIDAD DE LAS PERSONAS, CONTIENE SISTEMA DE ALARMA QUE SERÁN CONTROLADOS TODO POR LA APLICACIÓN LLAMADA FIND ME, TODO ESTO REALIZADO POR MEDIO DE THUNKABLE APP QUE PERMITE EL DESARROLLO DE APLICACIONES PARA DISPOSITIVO ANDROID, LA APP PERMITE UN SEGUIMIENTO FAMILIAR Y UNA COMUNICACIÓN ENTRE EL USUARIO Y SU RED DE CONTACTOS ELEGIDOS"
+        },
+        {
+            "ID": "29",
+            "NOMBRE": "HSB",
+            "DESCRIPCION": "DISEÑO Y PRODUCCION DE UNA PAGINA WEB PARA COMPRA Y VENTA DE OBJETOS. DE MANERA SEGURA Y EFICIENTE. DESARROLLADA EN LENGUAJE INFORMATICO"
+        },
+        {
+            "ID": "30",
+            "NOMBRE": "IVY RUBUTS",
+            "DESCRIPCION": "Diseño y producción de brazos robóticos híbridos manejados por medio de guantes con sensores de movimiento para la prevención de accidentes laborales en el sector de la construcción. "
+        },
+        {
+            "ID": "31",
+            "NOMBRE": "MAGIC FAN",
+            "DESCRIPCION": "Diseño y producción de un ventilador a base de materiales reciclables de fácil uso que posee una batería que reduce el costo de un recibo público hasta en un 10% en un hogar promedio, del mismo modo ayuda a reducir la contaminación del medio ambiente gracias a sus materiales de producción."
+        },
+        {
+            "ID": "32",
+            "NOMBRE": "MARKET CAR",
+            "DESCRIPCION": "Diseño y producción de un carro de compras que ayuda a las personas discapacitadas y/o de la tercera edad con la movilidad de sus productos con una mayor facilidad"
+        },
+        {
+            "ID": "33",
+            "NOMBRE": "NEUROCERAMIC",
+            "DESCRIPCION": "Diseño y elaboración de baldosas con iluminación para interiores y exteriores con energía renovable y limpia mediante un panel solar."
+        },
+        {
+            "ID": "34",
+            "NOMBRE": "PLUMÓN SAAP",
+            "DESCRIPCION": "Plumón saap"
+        },
+        {
+            "ID": "35",
+            "NOMBRE": "RECETAS COLOMBIANAS",
+            "DESCRIPCION": "RECETAS COLOMBIANAS"
+        },
+        {
+            "ID": "36",
+            "NOMBRE": "SAVE WATER",
+            "DESCRIPCION": "Diseño y producción de un sistema ahorrador de agua que por medio de un mecanismo compuesto por una llave de paso y un tramo de tubería transparente conectado al inodoro permite reutilizar aguas grises ahorrando el 60 % el gasto de aguas"
+        },
+        {
+            "ID": "37",
+            "NOMBRE": "SEE YOU",
+            "DESCRIPCION": "Diseño de monturas de gafas con piezas unidas por imanes para minimizar roturas y maximizar su vida útil"
+        },
+        {
+            "ID": "38",
+            "NOMBRE": "SMART LITE"
+        },
+        {
+            "ID": "39",
+            "NOMBRE": "SOLAR WORLD",
+            "DESCRIPCION": "Diseño y producción de un generador solar obtenida por paneles solares que reduce el costo de energía eléctrica de las empresas obreras"
+        },
+        {
+            "ID": "40",
+            "NOMBRE": "SYNTECH SURVEILLANCE"
+        },
+        {
+            "ID": "41",
+            "NOMBRE": "TIENDA CANDY",
+            "DESCRIPCION": "Sandwichera capaz de desarmarse para facilitar su limpieza previniendo los gérmenes y posibles enfermedades y contiene bandejas de diferentes tipos para que el portador no lo use solo como sandwichera sino como waflera o mini asador, también contendrá algunos diseños atractivos para los niños y un sistema ferroeléctrico"
+        },
+        {
+            "ID": "42",
+            "NOMBRE": "TRANSFORTECLAS",
+            "DESCRIPCION": "Diseño y producción De una aplicación de teclado transformable que se ajusta a las necesidades del momento"
+        },
+        {
+            "ID": "43",
+            "NOMBRE": "UNITED FEMINISTS"
+        },
+        {
+            "ID": "44",
+            "NOMBRE": "WATER PRODUCTIONS",
+            "DESCRIPCION": "Diseño y producción de una planta hidroeletrica sobre un rio"
+        },
+        {
+            "ID": "45",
+            "NOMBRE": "WINDING",
+            "DESCRIPCION": "Está app nos brinda una mayor facilidad y confianza para adquirir artículos de segunda mano de muy buena calidad a un menor precio ¡ vende lo que ya no usas!"
+        },
+        {
+            "ID": "46",
+            "NOMBRE": "WORKCOL",
+            "DESCRIPCION": "Aplicación móvil de multiservicios que brinda oportunidades de trabajo a la comunidad local a aquellas personas que posean una habilidad o conocimiento"
+        },
+        {
+            "ID": "47",
+            "NOMBRE": "ABOORECS",
+            "DESCRIPCION": "Produccion de abono organico a base de cascaras como la del huevo, platano, zanahoria[...] para los agricultores que ayuda en un 8% a la contaminación en Bucaramanga."
+        },
+        {
+            "ID": "48",
+            "NOMBRE": "AIR FREE",
+            "DESCRIPCION": "Diseño y producción de purificadores de aire para exteriores a base de filtros naturales y plástico reciclado para el mejoramiento de la calidad del aire cercano al purificador con el fin de evitar el incremento de enfermedades respiratorias a las personas que reciban su funcionamiento."
+        },
+        {
+            "ID": "49",
+            "NOMBRE": "BGA GAMES",
+            "DESCRIPCION": "DESARROLLO DE UN VIDEOJUEGO EDUCATIVO EN UNITY PARA GENERAR CONCIENCIA SOBRE EL CUIDADO DEL MEDIO AMBIENTE, DE LOS PÁRAMOS Y EL APRENDIZAJE DEL IDIOMA INGLÉS ENFOCADO A LOS JÓVENES DE COLEGIOS PÚBLICOS ENTRE 7 Y 18 AÑOS"
+        },
+        {
+            "ID": "50",
+            "NOMBRE": "BIJAO LEAF",
+            "DESCRIPCION": "Platos a base de hoja de bijao"
+        },
+        {
+            "ID": "51",
+            "NOMBRE": "BIO BAGS",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE BOLSAS BIODEGRADABLE FABRICADAS A BASE DE BIOPLÁSTICO HECHO DE ALMIDONES DE PAPA Y MAÍZ QUE AYUDARÁ A LA DISMINUCIÓN DE LA CONTAMINACIÓN POR PLÁSTICO EN EL PLANETA."
+        },
+        {
+            "ID": "52",
+            "NOMBRE": "BIODIG",
+            "DESCRIPCION": "Diseño y Producción de un biodigestor que produce gas natural y reduce la contaminación ambiental"
+        },
+        {
+            "ID": "53",
+            "NOMBRE": "BIOFRIENDLY",
+            "DESCRIPCION": "Diseño y producción de un sistema de recolección y filtro con  capas: algodón, piedras, arena, grava, malla fina de filtro, carbón activado, tres tanques, tubo PVC transparente, masilla. el filtro que es reutilizable, convierte el agua lluvia o agua utilizada a agua potable"
+        },
+        {
+            "ID": "54",
+            "NOMBRE": "BIOLAND AMIGOS DEL PLANETA",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE BIOPLASTICO A BASE DE FECULA DE MAIZ QUE TARDAN EN BIODEGRADARSE 90 DÍAS EN FORMA NATURAL CAPAZ DE DISMINUIR LA CONTAMINACIÓN EN NUESTRO PLANETA Y MANTENERLO EN BUEN ESTADO"
+        },
+        {
+            "ID": "55",
+            "NOMBRE": "BIOPLASTIC",
+            "DESCRIPCION": "Diseño y producción de fibras textiles a partir de plásticos de un solo uso para la reducción de la contaminación en fuentes acuíferas"
+        },
+        {
+            "ID": "56",
+            "NOMBRE": "BIOS",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE UN LÁPIZ BIODEGRADABLE A BASE DE BIOPLÁSTICO HECHO DE ALMIDONES Y UNA MINA HECHA DE GRAFITO DE CAFÉ QUE AYUDARÁ A LA DISMINUCIÓN DE LA CONTAMINACIÓN POR PLÁSTICO Y TALA DE ÁRBOLES."
+        },
+        {
+            "ID": "57",
+            "NOMBRE": "BYOPLASVOCADO",
+            "DESCRIPCION": "Diseño y producción de bioplástico a base de semilla de aguacate para ayudar a reducir la contaminación por plástico en un 90% en nuestro medio ambiente"
+        },
+        {
+            "ID": "58",
+            "NOMBRE": "CANINE WORLD",
+            "DESCRIPCION": "Diseño y producción de correas biodegradables elaboradas en fique preparado para ayudar y contribuir en un 15% en la disminución de contaminación"
+        },
+        {
+            "ID": "59",
+            "NOMBRE": "CANNY"
+        },
+        {
+            "ID": "60",
+            "NOMBRE": "CARBONIC PEN",
+            "DESCRIPCION": "Diseño y producción de tela para elaborar prendas de ropa hechas a base de plástico PET, para bebés, niños, adultos, que no dañan la atmósfera con esto ayudamos de una manera muy amigable al medio ambiente, ya que la industria de moda es responsable del 8% de las emisiones mundiales del CO2."
+        },
+        {
+            "ID": "61",
+            "NOMBRE": "CIUDADELA DE LOS CONEJOS",
+            "DESCRIPCION": "Diseño y producción de un lapicero ecológico con tinta a base de carbonilla extraída de los vehículos para reducir la contaminación del aire y mejorar la calidad de vida de las personas y el medio ambiente; carbonilla extraída con un filtro especial."
+        },
+        {
+            "ID": "62",
+            "NOMBRE": "COMPARTE",
+            "DESCRIPCION": "Diseño y elaboración de una aplicación con el fin de ayudar a las comunidades con necesidad y problemas para adquirir objetos"
+        },
+        {
+            "ID": "63",
+            "NOMBRE": "DISPENSADOR PATITAS AL RESCATE",
+            "DESCRIPCION": "Diseño y producción de un dispensador de comida para perros y gatos que ayuda a contribuir en su proceso de alimentación"
+        },
+        {
+            "ID": "64",
+            "NOMBRE": "DOBA",
+            "DESCRIPCION": "Producción de bolsas biodegradables a base de almidón de yuca para el uso de recolección de heces caninas con un periodo de biodegradación de 1 mes"
+        },
+        {
+            "ID": "65",
+            "NOMBRE": "ECO ELECTRIC",
+            "DESCRIPCION": "MODEM QUE MONITOREA EL CONSUMO ELÉCTRICO DEL HOGAR, LOCALES, EMPRESAS PARA EVITAR EL CONSUMO EXCESIVO O EL SOBRE COSTO DE LAS ELECTRIFICADORAS SOBRE LOS CIUDADANOS."
+        },
+        {
+            "ID": "66",
+            "NOMBRE": "ECO LIMPIEZA",
+            "DESCRIPCION": "Diseño y producción de un prototipo de aspiradora Industrial automática que se encarga de la recolección y acumulación de residuos sólidos en zonas públicas. El diseño de las partes de dicho prototipo será mediante la reutilización de otros residuos sólidos, su funcionamiento se estructura en las baterías recargables batería sellada Fulibattery (12v 7.5ah / 2hr), el producto final del prototipo se verá destinado a las labores de los recolectores de basura en Colombia, contribuyendo a la protección de su salud y de las personas que transitan y habitan las calles puesto que vivirán en ambientes más sanos y menos expuestos, en el caso de los trabajadores, a enfermedades respiratorias, cansancio y explotación excesiva."
+        },
+        {
+            "ID": "67",
+            "NOMBRE": "ECOBURN",
+            "DESCRIPCION": "Cigarrillos ,Económicos ,Biodegradables y Amigables con el Consumidor."
+        },
+        {
+            "ID": "68",
+            "NOMBRE": "ECOWORLD",
+            "DESCRIPCION": "Diseño y producción de dispensadores de productos de aseo para que las personas se acerquen a ellos con envases de plástico reciclados, así logramos generar conciencia acerca de la contaminación debido de los productos de aseo que ya vienen envasados. "
+        },
+        {
+            "ID": "69",
+            "NOMBRE": "ELECTRIC CARS",
+            "DESCRIPCION": "Coches Eléctricos Próxima Generación Ambiental."
+        },
+        {
+            "ID": "70",
+            "NOMBRE": "EXPORTERS",
+            "DESCRIPCION": "Exportación de semillas de frutos y la fruta en físico flores que no se ven en otros países , seremos una empresa encargada de plantar , cuidar y exportar a dichos países, nosotros mismos tendríamos la vía por la cual transportar dichos frutos o semillas y encargados de hacerlas llegar a su destinario"
+        },
+        {
+            "ID": "71",
+            "NOMBRE": "FAP",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE CILINDROS ABSORBENTES POR MEDIO DE CABELLO HUMANO Y TELA FILTRO, PARA DISMINUIR EN UN 25% LA CONTAMINACIÓN POR DERRAMES DE HIDROCARBUROS EN LOS RÍOS Y GARANTIZAR LA LIMPIEZA POR PARTE DE LAS EMPRESAS COMPROMETIDAS."
+        },
+        {
+            "ID": "72",
+            "NOMBRE": "HUERTAS JIREH",
+            "DESCRIPCION": "HUERTAS VERTICALES "
+        },
+        {
+            "ID": "73",
+            "NOMBRE": "HUEVITO",
+            "DESCRIPCION": "Venta y distribución de huevos de manera virtual y presencial a cualquier usuario."
+        },
+        {
+            "ID": "74",
+            "NOMBRE": "LADRILLOS ECOL",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio"
+        },
+        {
+            "ID": "75",
+            "NOMBRE": "LEMON EXPRESS",
+            "DESCRIPCION": "Diseño y producción de dos tipos de cubiertos, unos comestibles hechos de trigo y arroz y otros biodegradables hechos a base de glicerina y gelatina, para reducir el uso de cubiertos desechables que diariamente contaminan el planeta."
+        },
+        {
+            "ID": "76",
+            "NOMBRE": "MACCA",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio."
+        },
+        {
+            "ID": "77",
+            "NOMBRE": "MIAMBIENTAPP",
+            "DESCRIPCION": "Diseño y producción de un calefactor solar ecológico elaborado con latas de aluminio, ideal para el sector rural,  generando un 47% de calefacción en lugares de climas muy bajos."
+        },
+        {
+            "ID": "78",
+            "NOMBRE": "MILKA",
+            "DESCRIPCION": "Diseño y producción de ropa textil proveniente de hilatura biodegradable que reduce la contaminación ambiental, uso de fabricación dañina en exceso y la pobreza para la vestimenta."
+        },
+        {
+            "ID": "79",
+            "NOMBRE": "MULTISERVICIOS NSP",
+            "DESCRIPCION": "Elaboración y distribución de plaguicidas no tóxicos, elaborados a base de elementos 100% naturales, derivado esencialmente de la menta, para el control y eliminación de una amplia variedad de plagas."
+        },
+        {
+            "ID": "80",
+            "NOMBRE": "NATPEST",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio"
+        },
+        {
+            "ID": "81",
+            "NOMBRE": "NATU-DISHES",
+            "DESCRIPCION": "Diseño y producción de ropa deportiva a base de una fibra hecha de plástico reciclado para disminuir la contaminación y ayudar al medio ambiente"
+        },
+        {
+            "ID": "82",
+            "NOMBRE": "ORFASH",
+            "DESCRIPCION": "Diseño y producción de biogás a base de cáscaras de zanahoria, plátano, piña, naranja, papa, cebolla y cáscaras de huevo que por medio de un proceso de descomposición de 2 familias en 30 días podemos generar 163.6kg de residuos que son los que vamos a necesitar para abastecer nuestro equipo de biogas, este nos permite mejorar el presupuesto de la población que no posee gas natural en sus casas en un total del 60%."
+        },
+        {
+            "ID": "83",
+            "NOMBRE": "ORGAGAS",
+            "DESCRIPCION": "Diseño y producción de biogás a base de cáscaras de zanahoria, plátano, piña, naranja, papa, cebolla y cáscaras de huevo que por medio de un proceso de descomposición de 2 familias en 30 días podemos generar 163.6kg de residuos que son los que vamos a necesitar para abastecer nuestro equipo de biogas, este nos permite mejorar el presupuesto de la población que no posee gas natural en sus casas en un total del 60%."
+        },
+        {
+            "ID": "84",
+            "NOMBRE": "PAPER ART",
+            "DESCRIPCION": "Elaborar y diseñar de hojas hechas con material reciclable para la creación de cuadernos, folletos y más de diferentes olores, colores y contenidos ambientales y culturales, dirigidos a todos los santandereanos en conmemoración de los 400 años de Bucaramanga, también crean conciencia en torno a la importancia de nuestros recursos naturales como Santurban.\""
+        },
+        {
+            "ID": "85",
+            "NOMBRE": "PIJAMA ENCANTADA",
+            "DESCRIPCION": "Diseño y elaboración de pijamas y bolsas por medio de textiles de polipropileno adquirido externamente, beneficiando al medio ambiente con la reducción de químicos industriales y permitiendo que la sociedad conozca este material en una prenda para dormir la cual brinda comodidad y gusto con la diversidad de nuestros estilos."
+        },
+        {
+            "ID": "86",
+            "NOMBRE": "PLASTICASE",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE FUNDAS ELABORADAS CON MATERIALES RECICLABLES, PARA DISMINUIR EN UN 10% LA CONTAMINACIÓN PRODUCIDA POR RESIDUOS PLÁSTICOS EN LOS RÍOS Y PLAYAS DEL PAÍS."
+        },
+        {
+            "ID": "87",
+            "NOMBRE": "PLATURISMO",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio"
+        },
+        {
+            "ID": "88",
+            "NOMBRE": "RTR",
+            "DESCRIPCION": "DISEÑO Y CREACIÓN DE UNA APP EDUCATIVA POR MEDIO DEL LENGUAJE KOTLIN ANDROID, PARA PROMOVER EL CUIDADO DEL MEDIO AMBIENTE DE UNA MANERA DIDÁCTICA, PARA LOS JÓVENES QUE CUENTEN CON DISPOSITIVOS MÓVILES."
+        },
+        {
+            "ID": "89",
+            "NOMBRE": "SCAUN ELECTRIC",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE SILLAS CON PANELES SOLARES, UN MODEM DE INTERNET, Y TOMA CORRIENTES PARA MANTENER CONECTADAS A LA RED Y CARGADOS LOS EQUIPOS ELECTRONICOS DE LOS USUARIOS."
+        },
+        {
+            "ID": "90",
+            "NOMBRE": "SERVITEC",
+            "DESCRIPCION": "Rociadores automaticos creados a base de circuitos electrónicos y programación para el riego de campos que ayuda a reducir la sequía en el campo donde se este haciendo uso de este. También ayuda a reducir la perdida de alimentos"
+        },
+        {
+            "ID": "91",
+            "NOMBRE": "SKATEBOARDBIKE",
+            "DESCRIPCION": "Producir una bici patineta eléctrica basada en la tecnología de baterías recargables de litio de 8000mAh para dar solución a los problemas de transporte en distancias cortas y medianas, al mismo tiempo ayudar a disminuir la contaminación del aire"
+        },
+        {
+            "ID": "92",
+            "NOMBRE": "SKYDRON"
+        },
+        {
+            "ID": "93",
+            "NOMBRE": "TERMIC BABY SPOON",
+            "DESCRIPCION": "Diseño y producción de cucharas térmicas elaboradas para ayudar y contribuir en la disminución de quemaduras por líquidos y comidas en bebés "
+        },
+        {
+            "ID": "94",
+            "NOMBRE": "TREE ENERGY",
+            "DESCRIPCION": "Aplicación de energía eólica en medios creativos"
+        },
+        {
+            "ID": "95",
+            "NOMBRE": "VICAPLA",
+            "DESCRIPCION": "Diseño y producción de biogás a base de cáscaras de zanahoria, plátano, piña, naranja, papa, cebolla y cáscaras de huevo que por medio de un proceso de descomposición de 2 familias en 30 días podemos generar 163.6kg de residuos que son los que vamos a necesitar para abastecer nuestro equipo de biogas, este nos permite mejorar el presupuesto de la población que no posee gas natural en sus casas en un total del 60%."
+        },
+        {
+            "ID": "96",
+            "NOMBRE": "VIVEREXPRESS",
+            "DESCRIPCION": "Materiales de la industria de la construcción "
+        },
+        {
+            "ID": "97",
+            "NOMBRE": "VIVERO DE CACAO",
+            "DESCRIPCION": "Distribuidora y comercializadora de productos agrícolas."
+        },
+        {
+            "ID": "98",
+            "NOMBRE": "WATER CARE",
+            "DESCRIPCION": "Riego automático que nos permite controlar y mantener nuestro cultivo de cacao en buen estado controlando los insectos cerca."
+        },
+        {
+            "ID": "99",
+            "NOMBRE": "WEATHER CLEAR",
+            "DESCRIPCION": "Diseño y producción de un sistema de filtración para la adecuada purificación y desinfección del agua contaminada "
+        },
+        {
+            "ID": "100",
+            "NOMBRE": "BIOGADGETS",
+            "DESCRIPCION": "Diseño y producción de un dispositivo electrónico integrado de control de inclinación y movimiento para prevenir y notificar caídas y/o movimientos bruscos en adultos mayores de 70 años"
+        },
+        {
+            "ID": "101",
+            "NOMBRE": "CUCHARA BABY",
+            "DESCRIPCION": "Cuchara térmica medidora de temperatura anximaka"
+        },
+        {
+            "ID": "102",
+            "NOMBRE": "DS ENAMEL",
+            "DESCRIPCION": "Desarrollo de una solución aplicativo para detectar alcoholes adulterados."
+        },
+        {
+            "ID": "103",
+            "NOMBRE": "EUA2",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE DIVISIÓN PARA BAÑO Y UNA BARRERA CONTRA LA SALIDA DE AGUA EN EL PISO TOTALMENTE AUTOMATIZADOS POR MEDIO DE SENSORES DE PROXIMIDAD Y UN PANEL DE CONTROL AUTOMÁTICO QUE FACILITA EL TRASLADO DE PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA TERCERA EDAD A LOS BAÑOS EN LOS CENTROS DE SALUD"
+        },
+        {
+            "ID": "104",
+            "NOMBRE": "GLOBE FOR THE BLIND",
+            "DESCRIPCION": "Elaboración de un guante con sensores y bocinas para personas con discapacidad visual"
+        },
+        {
+            "ID": "105",
+            "NOMBRE": "HEALTH AND BEAUTY",
+            "DESCRIPCION": "CREACION DE UNA PAGINA WEB QUE TE AYUDARA A CUIDAR TU PIEL, DEPENDIENDO QUE TIPO DE PIEL TENGAS ATRAVEZ DE UNA ENCUESTA"
+        },
+        {
+            "ID": "106",
+            "NOMBRE": "HEALTHIER",
+            "DESCRIPCION": "DISEÑO DE UNA APLICACIÓN PARA MÓVIL ANDROID DESARROLLADA EN LENGUAJE JAVA PARA DESARROLLAR HÁBITOS SALUDABLES DE UN 80% EN PERSONAS CON DESORDEN ALIMENTICIO COMÚNMENTE LLAMADA ANSIEDAD ALIMENTICIA, A BASE DE JUEGOS, EJERCICIOS Y REMISIONES A TERAPÉUTAS, PARA MEJORAR LA SALUD FÍSICA Y EMOCIONAL, ACTO PARA NIÑOS, JÓVENES Y ADULTOS."
+        },
+        {
+            "ID": "107",
+            "NOMBRE": "HUEVITOO"
+        },
+        {
+            "ID": "108",
+            "NOMBRE": "IROBOT",
+            "DESCRIPCION": "IROBOT"
+        },
+        {
+            "ID": "109",
+            "NOMBRE": "MANOPLASTEK",
+            "DESCRIPCION": "Diseño y producción de Manopla cargada con electroestimuladores, capaz de combatir el síndrome del túnel carpiano."
+        },
+        {
+            "ID": "110",
+            "NOMBRE": "MAZORCAR",
+            "DESCRIPCION": "Diseño y producción de una maquina moledora de maíz, con sensores para disminuir el consumo de energía "
+        },
+        {
+            "ID": "111",
+            "NOMBRE": "MEDICAL ASSITANT",
+            "DESCRIPCION": "Diseño y producción de una aplicación móvil sobre la prevención de la auto medicación"
+        },
+        {
+            "ID": "112",
+            "NOMBRE": "NOT MICROSLEEP",
+            "DESCRIPCION": "Diseño y producción de manillas salvavidas para ayudar en viajes automovilísticos con énfasis de salud y bienestar."
+        },
+        {
+            "ID": "113",
+            "NOMBRE": "PURPLEECO",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE HUERTAS ECOLÓGICAS FABRICADAS CON MATERIALES RECICLABLES, SENSORES Y SISTEMAS, PERMITE ADQUIRIR PLANTAS Y PRODUCTOS BÁSICOS DE LA COCINA COLOMBIANA, FAVORECE EL FÁCIL ACCESO Y LA ECONOMÍA DE LOS HOGARES DE BAJOS RECURSOS."
+        },
+        {
+            "ID": "114",
+            "NOMBRE": "SAE",
+            "DESCRIPCION": "SEMAFORO ANTI EMERGENCIA (SAE)"
+        },
+        {
+            "ID": "115",
+            "NOMBRE": "WRISTBAND S.O.S",
+            "DESCRIPCION": "Diseño Y producción de relojes inteligentes con énfasis en la salud y bienestar para todo tipo de usuarios."
+        },
+        {
+            "ID": "116",
+            "NOMBRE": "WSMILE",
+            "DESCRIPCION": "Diseño y producción de una goma de Nistatina que mejora la candidiasis oral y la autoestima del paciente en un 50%"
+        },
+        {
+            "ID": "117",
+            "NOMBRE": "YOUR STORY",
+            "DESCRIPCION": "Diseño y producción de una pagina web mediante HTML donde se buscara ayudar a las personas de escazos recursos mediante donaciones de ropa, productos de aseo personal."
+        },
+        {
+            "ID": "118",
+            "NOMBRE": "ZAFIROFOST 2022",
+            "DESCRIPCION": "Diseño y producción de un zapato autónomo que mejorara la seguridad de las personas"
+        },
+        {
+            "ID": "119",
+            "NOMBRE": "APRENDIZAJE CANINO"
+        },
+        {
+            "ID": "120",
+            "NOMBRE": "COLOMBIA-CULTURE"
+        },
+        {
+            "ID": "121",
+            "NOMBRE": "MAGIC MATH"
+        },
+        {
+            "ID": "122",
+            "NOMBRE": "PROYECTO BALU"
+        },
+        {
+            "ID": "123",
+            "NOMBRE": "SECURITY DEPORT OFICIAL"
+        },
+        {
+            "ID": "124",
+            "NOMBRE": "TO SOLVE TÉCNICOS"
+        },
+        {
+            "ID": "125",
+            "NOMBRE": "32 BYTES COMPANY"
+        },
+        {
+            "ID": "126",
+            "NOMBRE": "ADIPEU"
+        },
+        {
+            "ID": "127",
+            "NOMBRE": "AIR JACKETS"
+        },
+        {
+            "ID": "128",
+            "NOMBRE": "ANTICRIMINALS"
+        },
+        {
+            "ID": "129",
+            "NOMBRE": "CAJA DE CARTÓN"
+        },
+        {
+            "ID": "130",
+            "NOMBRE": "CONO DE SEÑALIZACION DE CALLES Y CARRETERAS"
+        },
+        {
+            "ID": "131",
+            "NOMBRE": "COOSEDPLANT"
+        },
+        {
+            "ID": "132",
+            "NOMBRE": "CVRP SEGURITY"
+        },
+        {
+            "ID": "133",
+            "NOMBRE": "DAYJUS"
+        },
+        {
+            "ID": "134",
+            "NOMBRE": "EASYSCHOOLBUSAPP"
+        },
+        {
+            "ID": "135",
+            "NOMBRE": "FIND ME"
+        },
+        {
+            "ID": "136",
+            "NOMBRE": "GROWGING"
+        },
+        {
+            "ID": "137",
+            "NOMBRE": "HELLO APP"
+        },
+        {
+            "ID": "138",
+            "NOMBRE": "HELMETS"
+        },
+        {
+            "ID": "139",
+            "NOMBRE": "HUELLITAS CHIPS"
+        },
+        {
+            "ID": "140",
+            "NOMBRE": "IMPRESORA LASER PAINTING 2022"
+        },
+        {
+            "ID": "141",
+            "NOMBRE": "JSV2"
+        },
+        {
+            "ID": "142",
+            "NOMBRE": "M.I MANILLA INTELIGENTE"
+        },
+        {
+            "ID": "143",
+            "NOMBRE": "MADE WITH LOVE"
+        },
+        {
+            "ID": "144",
+            "NOMBRE": "MAGIC COMB"
+        },
+        {
+            "ID": "145",
+            "NOMBRE": "PEQUEÑAS SONRISAS"
+        },
+        {
+            "ID": "146",
+            "NOMBRE": "PLASTIC LUMBERS"
+        },
+        {
+            "ID": "147",
+            "NOMBRE": "POWER OF MAGNETISM"
+        },
+        {
+            "ID": "148",
+            "NOMBRE": "PROYECTO TECHNO SMART - BASE MULTIFUNCIONAL"
+        },
+        {
+            "ID": "149",
+            "NOMBRE": "RAME"
+        },
+        {
+            "ID": "150",
+            "NOMBRE": "RAYON SACS"
+        },
+        {
+            "ID": "151",
+            "NOMBRE": "RELOJ DE UBICACIÓN EN TIEMPO REAL POR SEÑAL"
+        },
+        {
+            "ID": "152",
+            "NOMBRE": "RAME"
+        },
+        {
+            "ID": "153",
+            "NOMBRE": "S2DAOB"
+        },
+        {
+            "ID": "154",
+            "NOMBRE": "SMART TRAINING CONES"
+        },
+        {
+            "ID": "155",
+            "NOMBRE": "TECNOLABR"
+        },
+        {
+            "ID": "156",
+            "NOMBRE": "TRUSTED PARKING LOT"
+        },
+        {
+            "ID": "157",
+            "NOMBRE": "WIND MOTOCYCLE-MOTO EOLICA"
+        },
+        {
+            "ID": "158",
+            "NOMBRE": "VEGETAL INTEGRAL CORPORATION"
+        },
+        {
+            "ID": "159",
+            "NOMBRE": "ABONFUT"
+        },
+        {
+            "ID": "160",
+            "NOMBRE": "ACUASAVE"
+        },
+        {
+            "ID": "161",
+            "NOMBRE": "AIRHILL"
+        },
+        {
+            "ID": "162",
+            "NOMBRE": "BIODEGRADABLE MAKEUP"
+        },
+        {
+            "ID": "163",
+            "NOMBRE": "BOUKETRA"
+        },
+        {
+            "ID": "164",
+            "NOMBRE": "CORALES"
+        },
+        {
+            "ID": "165",
+            "NOMBRE": "ECOGREEN"
+        },
+        {
+            "ID": "166",
+            "NOMBRE": "ECOLOGICAL STYLES"
+        },
+        {
+            "ID": "167",
+            "NOMBRE": "GREENHEARTH"
+        },
+        {
+            "ID": "168",
+            "NOMBRE": "MANDAL ARTS"
+        },
+        {
+            "ID": "169",
+            "NOMBRE": "MPSS AMBIENTAL COLORS"
+        },
+        {
+            "ID": "170",
+            "NOMBRE": "PAWEGG"
+        },
+        {
+            "ID": "171",
+            "NOMBRE": "PERSEINK"
+        },
+        {
+            "ID": "172",
+            "NOMBRE": "APRENDAMOS A SEMBRAR"
+        },
+        {
+            "ID": "173",
+            "NOMBRE": "RANGEMENT LEGER"
+        },
+        {
+            "ID": "174",
+            "NOMBRE": "TECNOCASE"
+        },
+        {
+            "ID": "175",
+            "NOMBRE": "WATER'S CONTADOR"
+        },
+        {
+            "ID": "176",
+            "NOMBRE": "ALTERNATIVE LEARNING"
+        },
+        {
+            "ID": "177",
+            "NOMBRE": "BRAINET"
+        },
+        {
+            "ID": "178",
+            "NOMBRE": "CALICE"
+        },
+        {
+            "ID": "179",
+            "NOMBRE": "CANALIZADOR DE VENAS"
+        },
+        {
+            "ID": "180",
+            "NOMBRE": "CANINE MOUTHWAHS"
+        },
+        {
+            "ID": "181",
+            "NOMBRE": "DAM"
+        },
+        {
+            "ID": "182",
+            "NOMBRE": "DEBLIND CAPS-EYE BUZZER"
+        },
+        {
+            "ID": "183",
+            "NOMBRE": "DEMENCIA FRONT"
+        },
+        {
+            "ID": "184",
+            "NOMBRE": "DETECTOR IRP"
+        },
+        {
+            "ID": "185",
+            "NOMBRE": "DOG HOUSE"
+        },
+        {
+            "ID": "186",
+            "NOMBRE": "EVERY CHILD IN IS WORLD"
+        },
+        {
+            "ID": "187",
+            "NOMBRE": "FELIX"
+        },
+        {
+            "ID": "188",
+            "NOMBRE": "FOODSCIENCE"
+        },
+        {
+            "ID": "189",
+            "NOMBRE": "FUTURE VIEW"
+        },
+        {
+            "ID": "190",
+            "NOMBRE": "MEDITEC"
+        },
+        {
+            "ID": "191",
+            "NOMBRE": "NEBPOR"
+        },
+        {
+            "ID": "192",
+            "NOMBRE": "NUTRI FITNESS"
+        },
+        {
+            "ID": "193",
+            "NOMBRE": "PROTECT YOUR VISION"
+        },
+        {
+            "ID": "194",
+            "NOMBRE": "SIGNAL TRANSLATOR"
+        },
+        {
+            "ID": "195",
+            "NOMBRE": "SMOUG"
+        },
+        {
+            "ID": "196",
+            "NOMBRE": "SZINDRÓMA"
+        },
+        {
+            "ID": "197",
+            "NOMBRE": "TAKEPAFA"
+        },
+        {
+            "ID": "198",
+            "NOMBRE": "WED.INC"
+        },
+        {
+            "ID": "199",
+            "NOMBRE": "WORKOUT ROUTINE"
+        }
+    ]
+}
