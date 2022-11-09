@@ -1,0 +1,255 @@
+﻿[
+        {
+            "ID": "100",
+            "NOMBRE": "BIOGADGETS",
+            "DESCRIPCION": "Diseño y producción de un dispositivo electrónico integrado de control de inclinación y movimiento para prevenir y notificar caídas y/o movimientos bruscos en adultos mayores de 70 años",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "101",
+            "NOMBRE": "CUCHARA BABY",
+            "DESCRIPCION": "Cuchara térmica medidora de temperatura anximaka",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "102",
+            "NOMBRE": "DS ENAMEL",
+            "DESCRIPCION": "Desarrollo de una solución aplicativo para detectar alcoholes adulterados.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "103",
+            "NOMBRE": "EUA2",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE DIVISIÓN PARA BAÑO Y UNA BARRERA CONTRA LA SALIDA DE AGUA EN EL PISO TOTALMENTE AUTOMATIZADOS POR MEDIO DE SENSORES DE PROXIMIDAD Y UN PANEL DE CONTROL AUTOMÁTICO QUE FACILITA EL TRASLADO DE PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA TERCERA EDAD A LOS BAÑOS EN LOS CENTROS DE SALUD",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "104",
+            "NOMBRE": "GLOBE FOR THE BLIND",
+            "DESCRIPCION": "Elaboración de un guante con sensores y bocinas para personas con discapacidad visual",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "105",
+            "NOMBRE": "HEALTH AND BEAUTY",
+            "DESCRIPCION": "CREACION DE UNA PAGINA WEB QUE TE AYUDARA A CUIDAR TU PIEL, DEPENDIENDO QUE TIPO DE PIEL TENGAS ATRAVEZ DE UNA ENCUESTA",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "106",
+            "NOMBRE": "HEALTHIER",
+            "DESCRIPCION": "DISEÑO DE UNA APLICACIÓN PARA MÓVIL ANDROID DESARROLLADA EN LENGUAJE JAVA PARA DESARROLLAR HÁBITOS SALUDABLES DE UN 80% EN PERSONAS CON DESORDEN ALIMENTICIO COMÚNMENTE LLAMADA ANSIEDAD ALIMENTICIA, A BASE DE JUEGOS, EJERCICIOS Y REMISIONES A TERAPÉUTAS, PARA MEJORAR LA SALUD FÍSICA Y EMOCIONAL, ACTO PARA NIÑOS, JÓVENES Y ADULTOS.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "107",
+            "NOMBRE": "HUEVITOO",
+            "DESCRIPCION": "HUEVITOO",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "108",
+            "NOMBRE": "IROBOT",
+            "DESCRIPCION": "IROBOT",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "109",
+            "NOMBRE": "MANO- PLASTEK",
+            "DESCRIPCION": "Diseño y producción de Manopla cargada con electroestimuladores, capaz de combatir el síndrome del túnel carpiano.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "110",
+            "NOMBRE": "MAZORCAR",
+            "DESCRIPCION": "Diseño y producción de una maquina moledora de maíz, con sensores para disminuir el consumo de energía ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "111",
+            "NOMBRE": "MEDICAL ASSITANT",
+            "DESCRIPCION": "Diseño y producción de una aplicación móvil sobre la prevención de la auto medicación",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "112",
+            "NOMBRE": "NOT MICROSLEEP",
+            "DESCRIPCION": "Diseño y producción de manillas salvavidas para ayudar en viajes automovilísticos con énfasis de salud y bienestar.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "113",
+            "NOMBRE": "PURPLEECO",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE HUERTAS ECOLÓGICAS FABRICADAS CON MATERIALES RECICLABLES, SENSORES Y SISTEMAS, PERMITE ADQUIRIR PLANTAS Y PRODUCTOS BÁSICOS DE LA COCINA COLOMBIANA, FAVORECE EL FÁCIL ACCESO Y LA ECONOMÍA DE LOS HOGARES DE BAJOS RECURSOS.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "114",
+            "NOMBRE": "SAE",
+            "DESCRIPCION": "SEMAFORO ANTI EMERGENCIA (SAE)",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "115",
+            "NOMBRE": "WRISTBAND S.O.S",
+            "DESCRIPCION": "Diseño Y producción de relojes inteligentes con énfasis en la salud y bienestar para todo tipo de usuarios.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "116",
+            "NOMBRE": "WSMILE",
+            "DESCRIPCION": "Diseño y producción de una goma de Nistatina que mejora la candidiasis oral y la autoestima del paciente en un 50%",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "117",
+            "NOMBRE": "YOUR STORY",
+            "DESCRIPCION": "Diseño y producción de una pagina web mediante HTML donde se buscara ayudar a las personas de escazos recursos mediante donaciones de ropa, productos de aseo personal.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "176",
+            "NOMBRE": "ALTERNATIVE LEARNING",
+            "DESCRIPCION": "ALTERNATIVE LEARNING",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "177",
+            "NOMBRE": "BRAINET",
+            "DESCRIPCION": "BRAINET",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "178",
+            "NOMBRE": "CALICE",
+            "DESCRIPCION": "Aplicasion de Psicologia.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "179",
+            "NOMBRE": "CANALIZADOR DE VENAS",
+            "DESCRIPCION": "CANALIZADOR DE VENAS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "180",
+            "NOMBRE": "CANINE MOUTHWAHS",
+            "DESCRIPCION": "Canines with healthy mouths.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "181",
+            "NOMBRE": "DAM",
+            "DESCRIPCION": "DAM",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "182",
+            "NOMBRE": "DEBLIND CAPS-EYE BUZZER",
+            "DESCRIPCION": "DEBLIND CAPS … EYE BUZZER",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "183",
+            "NOMBRE": "DEMENCIA FRONT",
+            "DESCRIPCION": "DEMENCIA FRONT",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "184",
+            "NOMBRE": "DETECTOR IRP",
+            "DESCRIPCION": "DETECTOR IRP",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "185",
+            "NOMBRE": "DOG HOUSE",
+            "DESCRIPCION": "Aplicación para el cuidado de tu mascota ",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "186",
+            "NOMBRE": "EVERY CHILD IN IS WORLD",
+            "DESCRIPCION": "EVERY CHILD IN IS WORLD",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "187",
+            "NOMBRE": "FELIX",
+            "DESCRIPCION": "FELIX",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "188",
+            "NOMBRE": "FOODSCIENCE",
+            "DESCRIPCION": "FOODSCIENCE",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "189",
+            "NOMBRE": "FUTURE VIEW",
+            "DESCRIPCION": "FUTURE VIEW",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "190",
+            "NOMBRE": "MEDITEC",
+            "DESCRIPCION": "MEDITEC",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "191",
+            "NOMBRE": "NEBPOR",
+            "DESCRIPCION": "NEBPOR",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "192",
+            "NOMBRE": "NUTRI FITNESS",
+            "DESCRIPCION": "NUTRI FITNESS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "193",
+            "NOMBRE": "PROTECT YOUR VISION",
+            "DESCRIPCION": "PROTECT YOUR VISION",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "194",
+            "NOMBRE": "SIGNAL TRANSLATOR",
+            "DESCRIPCION": "SIGNAL TRANSLATOR",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "195",
+            "NOMBRE": "SMOUG",
+            "DESCRIPCION": "SMOUG.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "196",
+            "NOMBRE": "SZINDRÓMA",
+            "DESCRIPCION": "SZINDRÓMA",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "197",
+            "NOMBRE": "TAKEPAFA",
+            "DESCRIPCION": "TAKEPAFA",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "198",
+            "NOMBRE": "WED.INC",
+            "DESCRIPCION": "WED.INC",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "199",
+            "NOMBRE": "WORKOUT ROUTINE",
+            "DESCRIPCION": "WORKOUT ROUTINE",
+            "GRADO": "Grado décimo"
+        }
+    ]
+    

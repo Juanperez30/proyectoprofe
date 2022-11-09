@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>Un cubo con una template de html</title>
+
+        <style>
+            html, body {
+                overflow: hidden;
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            #renderCanvas {
+                width: 100%;
+                height: 100%;
+                touch-action: none;
+            }
+        </style>
+
+        <script src="https://cdn.babylonjs.com/babylon.js"></script>
+        <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+        <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
+        <script src="https://cdn.babylonjs.com/gui/babylon.gui.js"></script>
+        <script language="javascript" type="text/javascript" src="jquery-1.8.2.js"></script>
+        <script src="js/jquery-ui-1.9.0.custom.js"></script>
+
+      </head>
+
+   <body>
+
+    <canvas id="renderCanvas" touch-action="none"></canvas> <!-- touch-action="none" for best results from PEP -->
+
+    <script>
+        const canvas = document.getElementById("renderCanvas"); // Get the canvas element
+        const engine = new BABYLON.Engine(canvas, true); // Generate the BABYLON 3D engine
+
+        // Add your code here matching the playground format
+        const createScene = function () {
+            const scene = new BABYLON.Scene(engine);
+
+
+
+            const camera = new BABYLON.ArcRotateCamera("camera", Math.PI, Math.PI / 2.5, 15, new BABYLON.Vector3(5, 15, 5));
+
+            //camera.cameraDirection = new BABYLON.Vector3(5, 15, 5);
+
+            camera.lowerAlphaLimit = Math.PI-1*Math.PI/8;
+            camera.upperAlphaLimit = Math.PI+1*Math.PI/8;
+            camera.upperBetalimit = Math.PI/2;
+            camera.lowerBetalimit = 0;
+
+
+            camera.attachControl(canvas, true);
+            camera.maxZ = 10000;
+            const light = new BABYLON.HemisphericLight("light", new BABYLON.Vector3(0, 1, 0));
+
+            var skybox = BABYLON.Mesh.CreateBox("skyBox", 1000, scene);
+            var skyboxMaterial = new BABYLON.StandardMaterial("skyBox", scene);
+            skyboxMaterial.backFaceCulling = false;
+            skyboxMaterial.disableLighting = true;
+            skybox.material = skyboxMaterial;
+            skybox.infiniteDistance = true;
+            skyboxMaterial.disableLighting = true;
+            skyboxMaterial.reflectionTexture = new BABYLON.CubeTexture("texturas/skybox/skybox", scene);
+            skyboxMaterial.reflectionTexture.coordinatesMode = BABYLON.Texture.SKYBOX_MODE;
+
+
+            const boxMat = new BABYLON.StandardMaterial("boxMat");
+            boxMat.diffuseTexture = new BABYLON.Texture("texturas/hierro.jpg")
+
+            const TV = new BABYLON.StandardMaterial("TV");
+            TV.diffuseTexture = new BABYLON.Texture("https://www.babylonjs-playground.com/textures/mercator2.jpg")
+
+            const paredtext = new BABYLON.StandardMaterial("paredtext");
+            paredtext.diffuseTexture = new BABYLON.Texture("texturas/pared.jpg")
+
+            const pendontext = new BABYLON.StandardMaterial("pendontext");
+            pendontext.diffuseTexture = new BABYLON.Texture("pendones/pendon1.jpg")
+
+            const pisotext = new BABYLON.StandardMaterial("pisotext");
+            pisotext.diffuseTexture = new BABYLON.Texture("texturas/piso.jpg")
+
+            const pancartatext = new BABYLON.StandardMaterial("pancartatext");
+            pancartatext.diffuseTexture = new BABYLON.Texture("texturas/Pancarta.jpg")
+
+            var piso = BABYLON.MeshBuilder.CreateBox("piso", {
+            height: 50, width: 30, depth: 1, subdivisions: 4, updatable: true
+            }, scene);
+            piso.rotation.x = 114.6681349;
+            piso.position.y = 0.5;
+            piso.material = pisotext;
+
+            var pared1 = BABYLON.MeshBuilder.CreateBox("pared1", {
+            height: 25, width: 30, depth: 2, subdivisions: 4, updatable: true
+            }, scene);
+            pared1.position.z = 25;
+            pared1.position.x = 0;
+            pared1.position.y = 12.5;
+            pared1.material = paredtext;
+
+            var pared2 = BABYLON.MeshBuilder.CreateBox("pared2", {
+            height: 25, width: 30, depth: 2, subdivisions: 4, updatable: true
+            }, scene);
+            pared2.position.z = -25;
+            pared2.position.x = 0;
+            pared2.position.y = 12.5;
+            pared2.material = paredtext;
+
+            var pared3 = BABYLON.MeshBuilder.CreateBox("fondo", {
+            height: 25, width: 50, depth: 2, subdivisions: 4, updatable: true
+            }, scene);
+            pared3.position.z = 0;
+            pared3.position.x = 17;
+            pared3.position.y = 12.5;
+            pared3.rotation.y = 114.6681349;
+            pared3.material = paredtext;
+
+            //var tv = BABYLON.MeshBuilder.CreatePlane("tv", {
+            //height: 9, width: 16, depth: 2, subdivisions: 4, updatable: true
+            //}, scene);
+            //tv.position.z = 10;
+            //tv.position.x = 8.90;
+            //tv.position.y = 12.5;
+            //tv.rotation.y = 114.6681349;
+            //tv.material = TV;
+
+            var soportetv = BABYLON.MeshBuilder.CreateBox("soportetv", {
+            height: 2, width: 19, depth: 2, subdivisions: 4, updatable: true
+            }, scene);
+            soportetv.position.z = 10;
+            soportetv.position.x = 10;
+            soportetv.position.y = 10;
+            soportetv.rotation.z = 114.6681349;
+            soportetv.material = boxMat;
+
+        //    var techo = BABYLON.MeshBuilder.CreatePlane("techo", {
+        //    height: 50, width: 36, depth: 1, subdivisions: 4, updatable: true
+        //    }, scene);
+        //    techo.rotation.x = 114.6681349;
+        //    techo.position.y = 25;
+        //    techo.position.z = 0;
+
+
+            var pancarta = BABYLON.MeshBuilder.CreatePlane("pancarta", {
+            height: 13, width: 50, depth: 1, subdivisions: 4, updatable: true
+            }, scene);
+            pancarta.position.z = 0;
+            pancarta.position.x = 16;
+            pancarta.position.y = 31;
+            pancarta.rotation.y = 114.6681349;
+            pancarta.material = pancartatext;
+
+            var pendon = BABYLON.MeshBuilder.CreatePlane("pendon", {
+            height: 20, width: 12, depth: 1, subdivisions: 4, updatable: true
+            }, scene);
+            pendon.position.z = -12;
+            pendon.position.x = 15;
+            pendon.position.y = 12;
+            pendon.rotation.y = 114.6681349;
+            pendon.material = pendontext;
+
+            scene.onPointerObservable.add(function(evento){
+      			     if(evento.pickInfo.pickedMesh === pendon){
+                      console.log("pendon");
+
+
+            			}
+          	}, BABYLON.PointerEventTypes.POINTERPICK);
+
+
+            var planeOpts = {
+      			height: 12,
+      			width: 21.4,
+      			sideOrientation: BABYLON.Mesh.DOUBLESIDE
+      	    };
+
+
+            var ANote0Video = BABYLON.MeshBuilder.CreatePlane("plane", planeOpts, scene);
+          	var vidPos = (new BABYLON.Vector3(8.90,12.5,10))
+            ANote0Video.position = vidPos;
+            ANote0Video.rotation.y = 114.6681349;
+          	var ANote0VideoMat = new BABYLON.StandardMaterial("m", scene);
+          	var ANote0VideoVidTex = new BABYLON.VideoTexture("vidtex","videos/proyecto_1.mp4", scene);
+          	ANote0VideoMat.diffuseTexture = ANote0VideoVidTex;
+          	ANote0VideoMat.roughness = 1;
+          	ANote0VideoMat.emissiveColor = new BABYLON.Color3.White();
+      	    ANote0Video.material = ANote0VideoMat;
+          	scene.onPointerObservable.add(function(evt){
+      			     if(evt.pickInfo.pickedMesh === ANote0Video){
+                            //console.log("picked");
+            					if(ANote0VideoVidTex.video.paused)
+            						ANote0VideoVidTex.video.play();
+            					else
+            						ANote0VideoVidTex.video.pause();
+                                console.log(ANote0VideoVidTex.video.paused?"paused":"playing");
+            			}
+          	}, BABYLON.PointerEventTypes.POINTERPICK);
+                //console.log(ANote0Video);
+
+
+            return scene;
+
+        };
+
+        const scene = createScene(); //Call the createScene function
+
+        // Register a render loop to repeatedly render the scene
+        engine.runRenderLoop(function () {
+                scene.render();
+        });
+
+        // Watch for browser/canvas resize events
+        window.addEventListener("resize", function () {
+                engine.resize();
+        });
+    </script>
+
+   </body>
+
+</html>

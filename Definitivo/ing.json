@@ -1,0 +1,368 @@
+﻿[
+        {
+            "ID": "20",
+            "NOMBRE": "AUTOMODIF",
+            "DESCRIPCION": "Diseño y producción de un sistema de alarma para autos elaborado con chips arduinos y sensores de movimiento o los cuales se manejarán con una aplicación móvil, disminuyendo así el 40% de robos de automóviles en el país",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "21",
+            "NOMBRE": "BEEP",
+            "DESCRIPCION": "Diseño y producción de dispositivos de tipo alarma con el fin de reducir la accidentalidad causada por microsueños, reduciendo así las tasas de mortalidad.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "22",
+            "NOMBRE": "CAR WALKS STEPS",
+            "DESCRIPCION": "CAR WALKS STEPS",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "23",
+            "NOMBRE": "COOKING EASY",
+            "DESCRIPCION": "Sandwichera capaz de desarmarse para facilitar su limpieza previniendo los gérmenes y posibles enfermedades y contiene bandejas de diferentes tipos para que el portador no lo use solo como sandwichera sino como waflera o mini asador, también contendrá algunos diseños atractivos para los niños y un sistema ferroeléctrico",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "24",
+            "NOMBRE": "DANVEON",
+            "DESCRIPCION": "Diseño y producion de un dron hecho en paletas de helados",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "25",
+            "NOMBRE": "DISPENSERTEC",
+            "DESCRIPCION": "Diseño y producción de dispensadores a base de materiales reciclables de fácil uso,brinda un servicio acomededor y practico ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "26",
+            "NOMBRE": "ECOLOOF",
+            "DESCRIPCION": "Diseño y venta de ecológicos de cartón que por medio de su ligero peso y un cuerpo de aluminio permite la fácil instalación disminuyendo un 60 el peso en comparación a un cielorraso común y disminuyendo el valor para que toda persona de bajo alcance económico pueda adquirirlo",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "27",
+            "NOMBRE": "ELECTRIC POT",
+            "DESCRIPCION": "ELECTRIC POT",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "28",
+            "NOMBRE": "FIND ME",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE UNA APLICACIÓN EN CONTRA DE LA VIOLENCIA DE GÉNERO QUE GARANTIZA LA SEGURIDAD DE LAS PERSONAS, CONTIENE SISTEMA DE ALARMA QUE SERÁN CONTROLADOS TODO POR LA APLICACIÓN LLAMADA FIND ME, TODO ESTO REALIZADO POR MEDIO DE THUNKABLE APP QUE PERMITE EL DESARROLLO DE APLICACIONES PARA DISPOSITIVO ANDROID, LA APP PERMITE UN SEGUIMIENTO FAMILIAR Y UNA COMUNICACIÓN ENTRE EL USUARIO Y SU RED DE CONTACTOS ELEGIDOS",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "29",
+            "NOMBRE": "HSB",
+            "DESCRIPCION": "DISEÑO Y PRODUCCION DE UNA PAGINA WEB PARA COMPRA Y VENTA DE OBJETOS. DE MANERA SEGURA Y EFICIENTE. DESARROLLADA EN LENGUAJE INFORMATICO",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "30",
+            "NOMBRE": "IVY RUBUTS",
+            "DESCRIPCION": "Diseño y producción de brazos robóticos híbridos manejados por medio de guantes con sensores de movimiento para la prevención de accidentes laborales en el sector de la construcción. ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "31",
+            "NOMBRE": "MAGIC FAN",
+            "DESCRIPCION": "Diseño y producción de un ventilador a base de materiales reciclables de fácil uso que posee una batería que reduce el costo de un recibo público hasta en un 10% en un hogar promedio, del mismo modo ayuda a reducir la contaminación del medio ambiente gracias a sus materiales de producción.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "32",
+            "NOMBRE": "MARKET CAR",
+            "DESCRIPCION": "Diseño y producción de un carro de compras que ayuda a las personas discapacitadas y/o de la tercera edad con la movilidad de sus productos con una mayor facilidad",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "33",
+            "NOMBRE": "NEUROCERAMIC",
+            "DESCRIPCION": "Diseño y elaboración de baldosas con iluminación para interiores y exteriores con energía renovable y limpia mediante un panel solar.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "34",
+            "NOMBRE": "PLUMÓN SAAP",
+            "DESCRIPCION": "Plumón saap",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "35",
+            "NOMBRE": "RECETAS COLOMBIANAS",
+            "DESCRIPCION": "RECETAS COLOMBIANAS",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "36",
+            "NOMBRE": "SAVE WATER",
+            "DESCRIPCION": "Diseño y producción de un sistema ahorrador de agua que por medio de un mecanismo compuesto por una llave de paso y un tramo de tubería transparente conectado al inodoro permite reutilizar aguas grises ahorrando el 60 % el gasto de aguas",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "37",
+            "NOMBRE": "SEE YOU",
+            "DESCRIPCION": "Diseño de monturas de gafas con piezas unidas por imanes para minimizar roturas y maximizar su vida útil",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "38",
+            "NOMBRE": "SMART LITE",
+            "DESCRIPCION": "SMART LITE",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "39",
+            "NOMBRE": "SOLAR WORLD",
+            "DESCRIPCION": "Diseño y producción de un generador solar obtenida por paneles solares que reduce el costo de energía eléctrica de las empresas obreras",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "40",
+            "NOMBRE": "SYNTECH SURVEILLANCE",
+            "DESCRIPCION": "SYNTECH SURVEILLANCE",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "41",
+            "NOMBRE": "TIENDA CANDY",
+            "DESCRIPCION": "Sandwichera capaz de desarmarse para facilitar su limpieza previniendo los gérmenes y posibles enfermedades y contiene bandejas de diferentes tipos para que el portador no lo use solo como sandwichera sino como waflera o mini asador, también contendrá algunos diseños atractivos para los niños y un sistema ferroeléctrico",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "42",
+            "NOMBRE": "TRANSFORTECLAS",
+            "DESCRIPCION": "Diseño y producción De una aplicación de teclado transformable que se ajusta a las necesidades del momento",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "43",
+            "NOMBRE": "UNITED FEMINISTS",
+            "DESCRIPCION": "UNITED FEMINISTS",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "44",
+            "NOMBRE": "WATER PRODUCTIONS",
+            "DESCRIPCION": "Diseño y producción de una planta hidroeletrica sobre un rio",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "45",
+            "NOMBRE": "WINDING",
+            "DESCRIPCION": "Está app nos brinda una mayor facilidad y confianza para adquirir artículos de segunda mano de muy buena calidad a un menor precio ¡ vende lo que ya no usas!",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "46",
+            "NOMBRE": "WORKCOL",
+            "DESCRIPCION": "Aplicación móvil de multiservicios que brinda oportunidades de trabajo a la comunidad local a aquellas personas que posean una habilidad o conocimiento",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "125",
+            "NOMBRE": "32 BYTES COMPANY",
+            "DESCRIPCION": "32 Bytes Company.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "126",
+            "NOMBRE": "ADIPEU",
+            "DESCRIPCION": "AHORRO DIGITAL PARA LA EDUCACION UNIVERSITARIA.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "127",
+            "NOMBRE": "AIR JACKETS",
+            "DESCRIPCION": "UNITED FEMINISTS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "128",
+            "NOMBRE": "ANTICRIMINALS",
+            "DESCRIPCION": "ANTICRIMINALS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "129",
+            "NOMBRE": "CAJA DE CARTÓN",
+            "DESCRIPCION": "Página web, de apuestas para ayudar a ONG",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "130",
+            "NOMBRE": "CONO DE SEÑALIZACION DE CALLES Y CARRETERAS",
+            "DESCRIPCION": "CONO DE SEÑALIZACION DE CALLES Y CARRETERAS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "131",
+            "NOMBRE": "COOSEDPLANT",
+            "DESCRIPCION": "COOSEDPLANT",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "132",
+            "NOMBRE": "CVRP SEGURITY",
+            "DESCRIPCION": "CVRP SEGURITY",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "133",
+            "NOMBRE": "DAYJUS",
+            "DESCRIPCION": "DAYJUS.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "134",
+            "NOMBRE": "EASYSCHOOLBUSAPP",
+            "DESCRIPCION": "EASYSCHOOLBUSAPP",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "135",
+            "NOMBRE": "FIND ME",
+            "DESCRIPCION": "FIND ME",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "136",
+            "NOMBRE": "GROWGING",
+            "DESCRIPCION": "Growing: Guías y Crecimiento",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "137",
+            "NOMBRE": "HELLO APP",
+            "DESCRIPCION": "HELLO APP",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "138",
+            "NOMBRE": "HELMETS",
+            "DESCRIPCION": "HELMETS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "139",
+            "NOMBRE": "HUELLITAS CHIPS",
+            "DESCRIPCION": "HUELLITAS CHIPS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "140",
+            "NOMBRE": "IMPRESORA LASER PAINTING 2022",
+            "DESCRIPCION": "IMPRESORA LASER PAINTING 2022 (LP)",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "141",
+            "NOMBRE": "JSV2",
+            "DESCRIPCION": "JSV2",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "142",
+            "NOMBRE": "M.I MANILLA INTELIGENTE",
+            "DESCRIPCION": "M.I MANILLA INTELIGENTE",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "143",
+            "NOMBRE": "MADE WITH LOVE",
+            "DESCRIPCION": "MADE WITH LOVE",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "144",
+            "NOMBRE": "MAGIC COMB",
+            "DESCRIPCION": "MAGIC COMB",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "145",
+            "NOMBRE": "PEQUEÑAS SONRISAS",
+            "DESCRIPCION": "Pequeñas Sonrisas.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "146",
+            "NOMBRE": "PLASTIC LUMBERS",
+            "DESCRIPCION": "PLASTIC LUMBERS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "147",
+            "NOMBRE": "POWER OF MAGNETISM",
+            "DESCRIPCION": "POWER OF MAGNETISM",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "148",
+            "NOMBRE": "PROYECTO TECHNO SMART - BASE MULTIFUNCIONAL",
+            "DESCRIPCION": "Proyecto Techno SMART – Base Multifuncional.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "149",
+            "NOMBRE": "RAME",
+            "DESCRIPCION": "RAME",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "150",
+            "NOMBRE": "RAYON SACS",
+            "DESCRIPCION": "RAYON SACS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "151",
+            "NOMBRE": "RELOJ DE UBICACIÓN EN TIEMPO REAL POR SEÑAL",
+            "DESCRIPCION": "RELOJ DE UBICACIÓN EN TIEMPO REAL POR SEÑAL",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "152",
+            "NOMBRE": "RAME",
+            "DESCRIPCION": "RAME",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "153",
+            "NOMBRE": "S2DAOB",
+            "DESCRIPCION": "S².D.A.O. BYTES",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "154",
+            "NOMBRE": "SMART TRAINING CONES",
+            "DESCRIPCION": "SMART TRAINING CONES",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "155",
+            "NOMBRE": "TECNOLABR",
+            "DESCRIPCION": "TECNOLABR",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "156",
+            "NOMBRE": "TRUSTED PARKING LOT",
+            "DESCRIPCION": "TRUSTED PARKING LOT",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "157",
+            "NOMBRE": "WIND MOTOCYCLE-MOTO EOLICA",
+            "DESCRIPCION": "WIND MOTOCYCLE.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "158",
+            "NOMBRE": "VEGETAL INTEGRAL CORPORATION",
+            "DESCRIPCION": "VEGETAL INTEGRAL CORPORATION (VIC).",
+            "GRADO": "Grado décimo"
+        }
+    ]

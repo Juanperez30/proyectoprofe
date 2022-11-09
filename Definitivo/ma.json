@@ -1,0 +1,422 @@
+﻿[
+        {
+            "ID": "47",
+            "NOMBRE": "ABOORECS",
+            "DESCRIPCION": "Produccion de abono organico a base de cascaras como la del huevo, platano, zanahoria[...] para los agricultores que ayuda en un 8% a la contaminación en Bucaramanga.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "48",
+            "NOMBRE": "AIR FREE",
+            "DESCRIPCION": "Diseño y producción de purificadores de aire para exteriores a base de filtros naturales y plástico reciclado para el mejoramiento de la calidad del aire cercano al purificador con el fin de evitar el incremento de enfermedades respiratorias a las personas que reciban su funcionamiento.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "49",
+            "NOMBRE": "BGA GAMES",
+            "DESCRIPCION": "DESARROLLO DE UN VIDEOJUEGO EDUCATIVO EN UNITY PARA GENERAR CONCIENCIA SOBRE EL CUIDADO DEL MEDIO AMBIENTE, DE LOS PÁRAMOS Y EL APRENDIZAJE DEL IDIOMA INGLÉS ENFOCADO A LOS JÓVENES DE COLEGIOS PÚBLICOS ENTRE 7 Y 18 AÑOS",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "50",
+            "NOMBRE": "BIJAO LEAF",
+            "DESCRIPCION": "Platos a base de hoja de bijao",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "51",
+            "NOMBRE": "BIO BAGS",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE BOLSAS BIODEGRADABLE FABRICADAS A BASE DE BIOPLÁSTICO HECHO DE ALMIDONES DE PAPA Y MAÍZ QUE AYUDARÁ A LA DISMINUCIÓN DE LA CONTAMINACIÓN POR PLÁSTICO EN EL PLANETA.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "52",
+            "NOMBRE": "BIODIG",
+            "DESCRIPCION": "Diseño y Producción de un biodigestor que produce gas natural y reduce la contaminación ambiental",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "53",
+            "NOMBRE": "BIO FRIENDLY",
+            "DESCRIPCION": "Diseño y producción de un sistema de recolección y filtro con  capas: algodón, piedras, arena, grava, malla fina de filtro, carbón activado, tres tanques, tubo PVC transparente, masilla. el filtro que es reutilizable, convierte el agua lluvia o agua utilizada a agua potable",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "54",
+            "NOMBRE": "BIOLAND AMIGOS DEL PLANETA",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE BIOPLASTICO A BASE DE FECULA DE MAIZ QUE TARDAN EN BIODEGRADARSE 90 DÍAS EN FORMA NATURAL CAPAZ DE DISMINUIR LA CONTAMINACIÓN EN NUESTRO PLANETA Y MANTENERLO EN BUEN ESTADO",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "55",
+            "NOMBRE": "BIOPLASTIC",
+            "DESCRIPCION": "Diseño y producción de fibras textiles a partir de plásticos de un solo uso para la reducción de la contaminación en fuentes acuíferas",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "56",
+            "NOMBRE": "BIOS",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE UN LÁPIZ BIODEGRADABLE A BASE DE BIOPLÁSTICO HECHO DE ALMIDONES Y UNA MINA HECHA DE GRAFITO DE CAFÉ QUE AYUDARÁ A LA DISMINUCIÓN DE LA CONTAMINACIÓN POR PLÁSTICO Y TALA DE ÁRBOLES.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "57",
+            "NOMBRE": "BYOPLAS VOCADO",
+            "DESCRIPCION": "Diseño y producción de bioplástico a base de semilla de aguacate para ayudar a reducir la contaminación por plástico en un 90% en nuestro medio ambiente",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "58",
+            "NOMBRE": "CANINE WORLD",
+            "DESCRIPCION": "Diseño y producción de correas biodegradables elaboradas en fique preparado para ayudar y contribuir en un 15% en la disminución de contaminación",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "59",
+            "NOMBRE": "CANNY",
+            "DESCRIPCION": "Diseño y producción de tela para elaborar prendas de ropa hechas a base de plástico PET, para bebés, niños, adultos, que no dañan la atmósfera con esto ayudamos de una manera muy amigable al medio ambiente, ya que la industria de moda es responsable del 8% de las emisiones mundiales del CO2.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "60",
+            "NOMBRE": "CARBONIC PEN",
+            "DESCRIPCION": "Diseño y producción de un lapicero ecológico con tinta a base de carbonilla extraída de los vehículos para reducir la contaminación del aire y mejorar la calidad de vida de las personas y el medio ambiente; carbonilla extraída con un filtro especial.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "61",
+            "NOMBRE": "CIUDADELA DE LOS CONEJOS",
+            "DESCRIPCION": "Crianza de conejos de todas las razas, alimentándolos saludablemente obteniendo carnes libres de quimicos.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "62",
+            "NOMBRE": "COMPARTE",
+            "DESCRIPCION": "Diseño y elaboración de una aplicación con el fin de ayudar a las comunidades con necesidad y problemas para adquirir objetos",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "63",
+            "NOMBRE": "DISPENSADOR PATITAS AL RESCATE",
+            "DESCRIPCION": "Diseño y producción de un dispensador de comida para perros y gatos que ayuda a contribuir en su proceso de alimentación",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "64",
+            "NOMBRE": "DOBA",
+            "DESCRIPCION": "Producción de bolsas biodegradables a base de almidón de yuca para el uso de recolección de heces caninas con un periodo de biodegradación de 1 mes",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "65",
+            "NOMBRE": "ECO ELECTRIC",
+            "DESCRIPCION": "MODEM QUE MONITOREA EL CONSUMO ELÉCTRICO DEL HOGAR, LOCALES, EMPRESAS PARA EVITAR EL CONSUMO EXCESIVO O EL SOBRE COSTO DE LAS ELECTRIFICADORAS SOBRE LOS CIUDADANOS.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "66",
+            "NOMBRE": "ECO LIMPIEZA",
+            "DESCRIPCION": "Diseño y producción de un prototipo de aspiradora Industrial automática que se encarga de la recolección y acumulación de residuos sólidos en zonas públicas. El diseño de las partes de dicho prototipo será mediante la reutilización de otros residuos sólidos, su funcionamiento se estructura en las baterías recargables batería sellada Fulibattery (12v 7.5ah / 2hr), el producto final del prototipo se verá destinado a las labores de los recolectores de basura en Colombia, contribuyendo a la protección de su salud y de las personas que transitan y habitan las calles puesto que vivirán en ambientes más sanos y menos expuestos, en el caso de los trabajadores, a enfermedades respiratorias, cansancio y explotación excesiva.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "67",
+            "NOMBRE": "ECOBURN",
+            "DESCRIPCION": "Cigarrillos ,Económicos ,Biodegradables y Amigables con el Consumidor.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "68",
+            "NOMBRE": "ECOWORLD",
+            "DESCRIPCION": "Diseño y producción de dispensadores de productos de aseo para que las personas se acerquen a ellos con envases de plástico reciclados, así logramos generar conciencia acerca de la contaminación debido de los productos de aseo que ya vienen envasados. ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "69",
+            "NOMBRE": "ELECTRIC CARS",
+            "DESCRIPCION": "Coches Eléctricos Próxima Generación Ambiental.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "70",
+            "NOMBRE": "EXPORTERS",
+            "DESCRIPCION": "Exportación de semillas de frutos y la fruta en físico flores que no se ven en otros países , seremos una empresa encargada de plantar , cuidar y exportar a dichos países, nosotros mismos tendríamos la vía por la cual transportar dichos frutos o semillas y encargados de hacerlas llegar a su destinario",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "71",
+            "NOMBRE": "FAP",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE CILINDROS ABSORBENTES POR MEDIO DE CABELLO HUMANO Y TELA FILTRO, PARA DISMINUIR EN UN 25% LA CONTAMINACIÓN POR DERRAMES DE HIDROCARBUROS EN LOS RÍOS Y GARANTIZAR LA LIMPIEZA POR PARTE DE LAS EMPRESAS COMPROMETIDAS.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "72",
+            "NOMBRE": "HUERTAS JIREH",
+            "DESCRIPCION": "HUERTAS VERTICALES ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "73",
+            "NOMBRE": "HUEVITO",
+            "DESCRIPCION": "Venta y distribución de huevos de manera virtual y presencial a cualquier usuario.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "74",
+            "NOMBRE": "LADRILLOS ECOL",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "75",
+            "NOMBRE": "LEMON EXPRESS",
+            "DESCRIPCION": "LEMON EXPRESS",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "76",
+            "NOMBRE": "MACCA",
+            "DESCRIPCION": "Diseño y producción de dos tipos de cubiertos, unos comestibles hechos de trigo y arroz y otros biodegradables hechos a base de glicerina y gelatina, para reducir el uso de cubiertos desechables que diariamente contaminan el planeta.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "77",
+            "NOMBRE": "MIAMBIENT APP",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "78",
+            "NOMBRE": "MILKA",
+            "DESCRIPCION": "Diseño y producción de un calefactor solar ecológico elaborado con latas de aluminio, ideal para el sector rural,  generando un 47% de calefacción en lugares de climas muy bajos.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "79",
+            "NOMBRE": "MULTI SERVICIOS NSP",
+            "DESCRIPCION": "Diseño y producción de ropa textil proveniente de hilatura biodegradable que reduce la contaminación ambiental, uso de fabricación dañina en exceso y la pobreza para la vestimenta.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "80",
+            "NOMBRE": "NATPEST",
+            "DESCRIPCION": "Elaboración y distribución de plaguicidas no tóxicos, elaborados a base de elementos 100% naturales, derivado esencialmente de la menta, para el control y eliminación de una amplia variedad de plagas.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "81",
+            "NOMBRE": "NATU-DISHES",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "82",
+            "NOMBRE": "ORFASH",
+            "DESCRIPCION": "Diseño y producción de ropa deportiva a base de una fibra hecha de plástico reciclado para disminuir la contaminación y ayudar al medio ambiente",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "83",
+            "NOMBRE": "ORGAGAS",
+            "DESCRIPCION": "Diseño y producción de biogás a base de cáscaras de zanahoria, plátano, piña, naranja, papa, cebolla y cáscaras de huevo que por medio de un proceso de descomposición de 2 familias en 30 días podemos generar 163.6kg de residuos que son los que vamos a necesitar para abastecer nuestro equipo de biogas, este nos permite mejorar el presupuesto de la población que no posee gas natural en sus casas en un total del 60%.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "84",
+            "NOMBRE": "PAPER ART",
+            "DESCRIPCION": "Elaborar y diseñar de hojas hechas con material reciclable para la creación de cuadernos, folletos y más de diferentes olores, colores y contenidos ambientales y culturales, dirigidos a todos los santandereanos en conmemoración de los 400 años de Bucaramanga, también crean conciencia en torno a la importancia de nuestros recursos naturales como Santurban.\"",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "85",
+            "NOMBRE": "PIJAMA ENCANTADA",
+            "DESCRIPCION": "Diseño y elaboración de pijamas y bolsas por medio de textiles de polipropileno adquirido externamente, beneficiando al medio ambiente con la reducción de químicos industriales y permitiendo que la sociedad conozca este material en una prenda para dormir la cual brinda comodidad y gusto con la diversidad de nuestros estilos.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "86",
+            "NOMBRE": "PLASTICASE",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE FUNDAS ELABORADAS CON MATERIALES RECICLABLES, PARA DISMINUIR EN UN 10% LA CONTAMINACIÓN PRODUCIDA POR RESIDUOS PLÁSTICOS EN LOS RÍOS Y PLAYAS DEL PAÍS.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "87",
+            "NOMBRE": "PLATURISMO",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "88",
+            "NOMBRE": "RTR",
+            "DESCRIPCION": "DISEÑO Y CREACIÓN DE UNA APP EDUCATIVA POR MEDIO DEL LENGUAJE KOTLIN ANDROID, PARA PROMOVER EL CUIDADO DEL MEDIO AMBIENTE DE UNA MANERA DIDÁCTICA, PARA LOS JÓVENES QUE CUENTEN CON DISPOSITIVOS MÓVILES.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "89",
+            "NOMBRE": "SCAUN ELECTRIC",
+            "DESCRIPCION": "DISEÑO Y PRODUCCIÓN DE SILLAS CON PANELES SOLARES, UN MODEM DE INTERNET, Y TOMA CORRIENTES PARA MANTENER CONECTADAS A LA RED Y CARGADOS LOS EQUIPOS ELECTRONICOS DE LOS USUARIOS.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "90",
+            "NOMBRE": "SERVITEC",
+            "DESCRIPCION": "Rociadores automaticos creados a base de circuitos electrónicos y programación para el riego de campos que ayuda a reducir la sequía en el campo donde se este haciendo uso de este. También ayuda a reducir la perdida de alimentos",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "91",
+            "NOMBRE": "SKATEBOARD BIKE",
+            "DESCRIPCION": "Producir una bici patineta eléctrica basada en la tecnología de baterías recargables de litio de 8000mAh para dar solución a los problemas de transporte en distancias cortas y medianas, al mismo tiempo ayudar a disminuir la contaminación del aire",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "92",
+            "NOMBRE": "SKYDRON",
+            "DESCRIPCION":"SKYDRON",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "93",
+            "NOMBRE": "TERMIC BABY SPOON",
+            "DESCRIPCION": "Diseño y producción de cucharas térmicas elaboradas para ayudar y contribuir en la disminución de quemaduras por líquidos y comidas en bebés ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "94",
+            "NOMBRE": "TREE ENERGY",
+            "DESCRIPCION": "Aplicación de energía eólica en medios creativos",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "95",
+            "NOMBRE": "VICAPLA",
+            "DESCRIPCION": "Materiales de la industria de la construcción ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "96",
+            "NOMBRE": "VIVER EXPRESS",
+            "DESCRIPCION": "Distribuidora y comercializadora de productos agrícolas.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "97",
+            "NOMBRE": "VIVERO DE CACAO",
+            "DESCRIPCION": "Riego automático que nos permite controlar y mantener nuestro cultivo de cacao en buen estado controlando los insectos cerca.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "98",
+            "NOMBRE": "WATER CARE",
+            "DESCRIPCION": "Diseño y producción de un sistema de filtración para la adecuada purificación y desinfección del agua contaminada ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "99",
+            "NOMBRE": "WEATHER CLEAR",
+            "DESCRIPCION": "Diseño y producción de un sistema de recolección y filtro con  capas: algodón, piedras, arena, grava, malla fina de filtro, carbón activado, tres tanques, tubo PVC transparente, masilla. el filtro que es reutilizable, convierte el agua lluvia o agua utilizada a agua potable",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "159",
+            "NOMBRE": "ABONFUT",
+            "DESCRIPCION":"ABONFUT",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "160",
+            "NOMBRE": "ACUASAVE",
+            "DESCRIPCION":"ACUASAVE",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "161",
+            "NOMBRE": "AIRHILL",
+            "DESCRIPCION":"AIRHILL",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "162",
+            "NOMBRE": "BIO DEGRADABLE MAKEUP",
+            "DESCRIPCION": "BIODEGRABABLE MAKEUP.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "163",
+            "NOMBRE": "BOUKETRA",
+            "DESCRIPCION": "BOUKETRA",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "164",
+            "NOMBRE": "CORALES",
+            "DESCRIPCION": "CORALES",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "165",
+            "NOMBRE": "ECOGREEN",
+            "DESCRIPCION": "ECOGREEN",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "166",
+            "NOMBRE": "ECOLOGICAL STYLES",
+            "DESCRIPCION": "ECOLOGICAL STYLES",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "167",
+            "NOMBRE": "GREENHEARTH",
+            "DESCRIPCION": "GREENHEARTH",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "168",
+            "NOMBRE": "MANDAL ARTS",
+            "DESCRIPCION": "MANDAL ARTS",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "169",
+            "NOMBRE": "MPSS AMBIENTAL COLORS",
+            "DESCRIPCION": " MPSS ambiental colors marcador biodegradable.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "170",
+            "NOMBRE": "PAWEGG",
+            "DESCRIPCION": "PAWEGG",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "171",
+            "NOMBRE": "PERSEINK",
+            "DESCRIPCION": "DISEÑO Y EJECUCIÓN DE UNA MAQUINA PARA EXTRAER TINTA DE LA SEMILLA O PEPA DEL AGUACATE PARA OBTENER COLORANTES NATURALES A BAJOS COSTOS.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "172",
+            "NOMBRE": "APRENDAMOS A SEMBRAR",
+            "DESCRIPCION": "APRENDAMOS A SEMBRAR",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "173",
+            "NOMBRE": "RANGEMENT LEGER",
+            "DESCRIPCION": "RANGEMENT LEGER",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "174",
+            "NOMBRE": "TECNOCASE",
+            "DESCRIPCION": "TECNOCASE",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "175",
+            "NOMBRE": "WATER'S CONTADOR",
+            "DESCRIPCION": "Water’s Contador/ Lector",
+            "GRADO": "Grado décimo"
+        }
+    ]

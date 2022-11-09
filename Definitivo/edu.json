@@ -1,0 +1,152 @@
+﻿[
+        {
+            "ID": "1",
+            "NOMBRE": "ARTIST HOME",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "2",
+            "NOMBRE": "BABYSITTER",
+            "DESCRIPCION": "Servicio de niñeras próxima generación de educación",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "3",
+            "NOMBRE": "CITIZIENS",
+            "DESCRIPCION": "Elaboración de un videojuego en Minecraft, recreando la ciudad de Bucaramanga, por medio de un mapa de aventuras y roles donde se genere conocimiento, sensibilización y cambios de",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "4",
+            "NOMBRE": "CODEPC",
+            "DESCRIPCION": "Diseño y producción de un programa en visual basic con usuario y contraseña para que cada sección sea del",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "5",
+            "NOMBRE": "COGNITIVE GAME",
+            "DESCRIPCION": "DISEÑO Y PRODUCCION DE UN VIDEOJUEGO EDUCATIVO POR MEDIO DE HERRAMIENTAS DE PROGRAMACION, PARA MEJORAR EL DESARROLLO COGNITIVO Y CREATIVO EN UN 40% EN LOS NIÑOS Y JOVENES",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "6",
+            "NOMBRE": "DETEICO",
+            "DESCRIPCION": "Dispositivo manual realizado con el objetivo de medir el aire para saber si se encuentra o no contaminado, ayudando de una buena manera al medio ambiente “Medidor de Aire",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "7",
+            "NOMBRE": "EDUKIDS",
+            "DESCRIPCION": "MEJORAMIENTO DE CONOICIMIENTO PARA PEQUIS ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "8",
+            "NOMBRE": "EDUPEQUIS",
+            "DESCRIPCION": "(M.C.P) MEJORANDO DE CONOCIMIENTO PARA PEQUIS ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "9",
+            "NOMBRE": "EVERY",
+            "DESCRIPCION": "Diseño y elaboración de una aplicación sobre educación sexual, conformada por distintos saberes con el fin de informar y",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "10",
+            "NOMBRE": "FACTORIAL-LEARNING",
+            "DESCRIPCION": "Desarrollo de un sistema aplicativo para celulares y computadores en phytom y html 5 en ordenadores y celulares Android para la enseñanza de casos de factorización 2 de matemáticas de octavo grado.",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "11",
+            "NOMBRE": "ISAGO",
+            "DESCRIPCION": "Diseño y creación de una app recreativa de uso libre para el entretenimiento de cualquier persona mediante el uso interactivo y visual .",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "12",
+            "NOMBRE": "KIDS LEARNING",
+            "DESCRIPCION": "Diseño y producción de un generador eléctrico accionado hidráulicamente que reduce el costo de un recibo público hasta en un 40% en un hogar promedio",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "13",
+            "NOMBRE": "LEARN PLAYING",
+            "DESCRIPCION": "App que busca hacer más divertida la práctica de la lectura buscando así mejorar el desempeño de los estudiantes en las pruebas de estado",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "14",
+            "NOMBRE": "NON VIOLENCE",
+            "DESCRIPCION": "diseño de la aplicación de Non Violence",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "15",
+            "NOMBRE": "OPDM",
+            "DESCRIPCION": "Aprendizaje por medio de Manga",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "16",
+            "NOMBRE": "RUN JUMP AND DODGE",
+            "DESCRIPCION": "Creación de un videojuego interesante y divertido con el cual combatir el aburrimiento y mal uso del tiempo de ocio  ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "17",
+            "NOMBRE": "SEX EDUCATION",
+            "DESCRIPCION": "Educación sobre la sexualidad para todos los jóvenes en Colombia y latinoamerica",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "18",
+            "NOMBRE": "TALKING DOGS",
+            "DESCRIPCION": "Botón grabable que le ayuda con la comunicación de perro a persona ",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "19",
+            "NOMBRE": "TOYDENT",
+            "DESCRIPCION": "TOYDENT",
+            "GRADO": "Grado undécimo"
+        },
+        {
+            "ID": "119",
+            "NOMBRE": "APRENDIZAJE CANINO",
+            "DESCRIPCION": "APRENDIZAJE CANINO.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "120",
+            "NOMBRE": "COLOMBIA-CULTURE",
+            "DESCRIPCION": "COLOMBIA-CULTURE",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "121",
+            "NOMBRE": "MAGIC MATH",
+            "DESCRIPCION": "MAGICMATH.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "122",
+            "NOMBRE": "PROYECTO BALU",
+            "DESCRIPCION": "HARDWARE PARA LA UTILIZACION DEL APRENDIZAJE DEL IDIOMA INGLES.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "123",
+            "NOMBRE": "SECURITY DEPORT OFICIAL",
+            "DESCRIPCION": "DISEÑO DE DEPORTE INFORMATIVO EN UNA PAGINA WEB PARA LA PROTECCION Y SEGURIDAD DEL DEPORTISTA.",
+            "GRADO": "Grado décimo"
+        },
+        {
+            "ID": "124",
+            "NOMBRE": "TO SOLVE TÉCNICOS",
+            "DESCRIPCION": "CREACION DE APP DE APOYO ACADEMICO.",
+            "GRADO": "Grado décimo"
+        }
+    ]
